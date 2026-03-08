@@ -28,10 +28,4 @@ class L2P2{
 				}	
 		} System.out.println(c);
 	}
- OUTPUT:
-4
-enter the elements:
-1 2 3 4
-2
-  
-}
+ 
